@@ -53,7 +53,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Cognitve and Computational Neuroscience some of my other interests and hobbies are:
    - Amateur Astronomy
    - Utopian Sci-fi movies
-   - Chasing my cat <mark>Leia[https://www.instagram.com/leia.kitty/]</mark>
+   - Chasing my cat <mark>Leia</mark>[https://www.instagram.com/leia.kitty/]
 
 # Footer
 footer_show_references: true
