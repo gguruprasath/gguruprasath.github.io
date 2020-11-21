@@ -32,7 +32,15 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Neuroimaging</mark> and <mark>talking to cats</mark>
   
-  My Research Interests are: Cognitive and Computational Neuroscience, Neuroimaging and Neuromodulation, Computational Psychiatry, Machine Learning
+  My Research Interests are:
+---
+- Cognitive and Computational Neuroscience
+- Neuroimaging and Neuromodulation
+- Computational Psychiatry
+- Machine Learning
+...
+  
+ # My Research Interests are: Cognitive and Computational Neuroscience, Neuroimaging and Neuromodulation, Computational Psychiatry, Machine Learning
 
 # Projects Section
 projects_title: Projects
