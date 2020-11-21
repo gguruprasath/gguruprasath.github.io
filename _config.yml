@@ -3,48 +3,51 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Guruprasath Gurusamy
+title: Research Assistant
+email: guru-prasath@outlook.com
+#website: www.github.com/
+
+# Dark theme
+darkmode: true
+#other options: false, never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: 47ag108
+github_username:  gguruprasath
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: guruprasath_
+linkedin_username: guruprasathg
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Guru and I'm a research assistant in the Cognitive, Computational and Behavior Lab at Centre for Neuroscience, Indian Institute of Science, Bengaluru.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Neuroimaging</mark> and <mark>talking to cats</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Cognitve and Computational Neuroscience some of my other interests and hobbies are:
+   - Amateur Astronomy
+   - Utopian Sci-fi movies
+   - Talking to Cats
 
 # Footer
 footer_show_references: true
