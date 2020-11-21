@@ -4,7 +4,11 @@
   job_title: Research Assistant
   dates: August 2016 - Present
   quote: >
-   Solving 21st century problems by understanding the structure and functional organization of human brain in healthy as well as diseased brain using non-invasive neuroimaging tools
+   Solving 21st-century problems by understanding the structure and functional organization of the human brain in healthy as well as diseased brain using non-invasive neuroimaging tools
   description: | # this will include new lines to allow paragraphs
-    I have learned to conduct the behavioral as well as neuroimaging experiments on a diverse cohort of healthy as well as diseased population.
-    I have learned the objective of model building to understand the human executive functions such as attention, and working memory.
+   I have learned to conduct behavioral as well as neuroimaging experiments on a diverse cohort of healthy as well as diseased populations and learned the objective of model building to understand the human executive functions such as attention and working memory.
+  description: | # this will include new lines to allow paragraphs
+   	  Designing, conducting and analyses of psychophysics, EEG, functional and diffusion MRI</br>
+      Experience in handling TMS and tACS experiments</br>
+      FSL, SPM, BIDS-fMRIPrep, Freesurfer, MRtrix3, Nipype, Psychtoolbox, Adobe Illustrator
+      MATLAB, Python, Shell script
