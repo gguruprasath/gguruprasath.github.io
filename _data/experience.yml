@@ -7,7 +7,10 @@
    Solving 21st-century problems by understanding the structure and functional organization of the human brain in healthy as well as diseased brain using non-invasive neuroimaging tools
   description: | # this will include new lines to allow paragraphs
    I have learned to conduct behavioral as well as neuroimaging experiments on a diverse cohort of healthy as well as diseased populations and learned the objective of model building to understand the human executive functions such as attention and working memory.
-'Chapter 1': [Introduction, Event Types]
-'Chapter 2': [Introduction, Helpers]
-   #[Designing, conducting and analyses of psychophysics, EEG, functional and diffusion MRI,Experience in handling TMS and tACS experiments,   FSL, SPM, BIDS-fMRIPrep, Freesurfer, MRtrix3, Nipype, Psychtoolbox, Adobe Illustrator</br>
-   #MATLAB, Python, Shell script
+---
+# A list of Skills
+- Designing, conducting and analyses of psychophysics, EEG, functional and diffusion MRI,
+- Experience in handling TMS and tACS experiments,
+- FSL, SPM, BIDS-fMRIPrep, Freesurfer, MRtrix3, Nipype, Psychtoolbox, Adobe Illustrator
+- MATLAB, Python, Shell script
+...
