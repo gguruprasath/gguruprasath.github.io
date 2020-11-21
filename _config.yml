@@ -31,16 +31,8 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Guru and I'm a research assistant in the Cognitive, Computational and Behavior Lab at Centre for Neuroscience, Indian Institute of Science, Bengaluru.
 
   I am most skilled in: <mark>Neuroimaging</mark> and <mark>talking to cats</mark>
-  
-  My Research Interests are:
----
-- Cognitive and Computational Neuroscience
-- Neuroimaging and Neuromodulation
-- Computational Psychiatry
-- Machine Learning
-...
-  
- # My Research Interests are: Cognitive and Computational Neuroscience, Neuroimaging and Neuromodulation, Computational Psychiatry, Machine Learning
+
+  Research Interests: Cognitive and Computational Neuroscience|Neuroimaging and Neuromodulation|Computational Psychiatry|Machine Learning
 
 # Projects Section
 projects_title: Projects
