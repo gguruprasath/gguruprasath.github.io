@@ -32,7 +32,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Neuroimaging</mark> and <mark>talking to cats</mark>
 
-  Research Interests: Cognitive and Computational Neuroscience|Neuroimaging and Neuromodulation|Computational Psychiatry|Machine Learning
+  Research Interests: 
+   - Cognitive and Computational Neuroscience
+   - Neuroimaging and Neuromodulation
+   - Computational Psychiatry
+   - Machine Learning
 
 # Projects Section
 projects_title: Projects
@@ -49,7 +53,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Cognitve and Computational Neuroscience some of my other interests and hobbies are:
    - Amateur Astronomy
    - Utopian Sci-fi movies
-   - Talking to Cats
+   - Chasing my cat <mark>Leia[https://www.instagram.com/leia.kitty/]</mark>
 
 # Footer
 footer_show_references: true
