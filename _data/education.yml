@@ -1,13 +1,12 @@
 
 - name: SRM University
   dates: 2013 - 2015
-  qualification: Masters of Technology in Biomedical Engineering
+  qualification: Master of Technology in Biomedical Engineering
   #quote: >
   description: | # this will include new lines to allow paragraphs
-   During my masters at SRM University, I had the opportunity to work with Electroencephalogram (EEG) to understand the frequency following effect of binaural beats on the brain waves for my thesis. I also had hands-on experience with MRI, CT, Ultrasound, X-ray during my hospital visit training program that helped me later to dive deep into exploring human cognition and behavior by probing the brain using some of these tools during my Research Assistantship in Cognition Lab, IISc, Bangalore, India.  
-- layout: left
+   During my master's at SRM University, I had the opportunity to work with an Electroencephalogram (EEG) to understand the frequency following effect of binaural beats on the brain waves for my thesis. I also had hands-on experience with MRI, CT, Ultrasound, X-ray during my hospital visit training program. This training helped me dive deep into exploring human cognition and behavior by probing the brain using some of these tools during my Research Assistantship in Cognition Lab, IISc, Bangalore, India.- layout: left
   name: SASTRA University
   dates: 2009 - 2013
-  qualification: Bachelors of Technology in Bioengineering
+  qualification: Bachelor of Technology in Bioengineering
   #quote: >
-  description: I had done extensive interdisciplinary courses across engineering and biological sciences departments ranging from Linear Algebra, Calculus, Probability and Statistics, Cell Signaling, Electrophysiology, Molecular Genetics, Neurobiology and Cognitive Sciences, Bio-fluid Dynamics, Biomedical Instrumentation, Tissue Engineering, LASER Physics.
+  description: I did extensive interdisciplinary courses across Mathematics, Engineering, and Biological sciences disciplines ranging from Linear Algebra, Calculus, Probability and Statistics, Cell Signaling, Electrophysiology, Molecular Genetics, Neurobiology and Cognitive Sciences, Bio-fluid Dynamics, Biomedical Instrumentation, Tissue Engineering, LASER Physics.
